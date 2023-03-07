@@ -1,6 +1,6 @@
 # Anton Vorobyov
 
-## Junior Frontend Developer
+## Frontend Developer
 
 
 ## Contacts
