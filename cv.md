@@ -50,7 +50,7 @@ for (let item of document.body.childNodes) {
 
 ## Projects
 
-* CV*
+* CV
 
 
 ## Education 
