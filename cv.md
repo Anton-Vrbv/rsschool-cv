@@ -54,11 +54,11 @@ for (let item of document.body.childNodes) {
 
 
 ## Education 
-* Plekhanov Russian University of Economics*
+* Plekhanov Russian University of Economics
 
-* Udemy courses*
+* Udemy courses
 
-* The Rolling Scopes School*
+* The Rolling Scopes School
 
 
 ## Language skills
