@@ -40,14 +40,14 @@ I am an economist, would like to open something new in IT
 
 
 ## Code example
-
+```
 for (let item of document.body.childNodes) {
     if (item.nodeName == '#text') {
         continue; 
     }
     console.log(item);
 }
-
+```
 ## Projects
 
 * CV
