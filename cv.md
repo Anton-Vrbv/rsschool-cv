@@ -15,7 +15,7 @@
 
 **Discord rsschool:** Aciem (Anton)
 
-**GitHub:** 
+**GitHub:** Anton-Vrbv
 
 
 ## About me
